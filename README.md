@@ -1,23 +1,33 @@
 # Dragonslayer Armor
 HP 4581
-Poise 300.00
+
+Poise 300
+
 Souls 64000
 
 ### Physical Absroption
 Standard 32%
+
 Strike 25%
+
 Slash 35%
+
 Thrust 35%
 
 ### Elemental Absorption
 Magic 24%
+
 Fire 20%
+
 Lightning 72%
+
 Dark 68%
 
 ### Immunities
 Bleed Immune
+
 Poison Immune
+
 Frost Susceptible
 
 <!---
